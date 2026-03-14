@@ -1,1 +1,3 @@
 # apuntes
+---
+Repositorio con apuntes.
