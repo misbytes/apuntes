@@ -2,7 +2,7 @@
 
 ---
 
-- -[git](https://github.com/repo404/apuntes/blob/main/git.txt)
+- [git](https://github.com/repo404/apuntes/blob/main/git.txt)
 
 
 
