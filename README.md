@@ -1,7 +1,10 @@
-<<<<<<< HEAD
-# apuntes
----
-Repositorio con apuntes.
-=======
 # Apuntes Varios
->>>>>>> 3f12c62 (first commit)
+
+---
+
+- -[git](https://github.com/repo404/apuntes/blob/main/git.txt)
+
+
+
+
+
