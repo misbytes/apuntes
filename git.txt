@@ -1,6 +1,31 @@
 ## Comandos git
 
+git init
+	- Inicializar repositorio local.
+
+git add .
+	- Agrega los cambios a staging area en local
+
+git commit -m 'mensaje para el commit'
+	- Commit de los cambios en local.
+
+git config user.name usernamex
+	- Configuracion de username.
+
+git config user.email user@mail.com
+	- Configuracion de mail.
+
 git config --global credential.helper store
-	- Almacenamiento de credenciales en local
+	- Almacenamiento de credenciales en local.
+
+git push -u origin master
+	- Se realiza el pase a master o main en Github.
+
+git branch -m main
+	- Sirve para renombrar la rama principal a main (antes se llamaba master y puede traer conflictos).
+	- Lo mejor es llamarlo igual que como figura en el repositorio definitivo (En este caso github).
+
+git log --oneline
+	- Muestra en una línea los commit realizados (con esto veo el id de la version).
 
 
