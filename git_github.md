@@ -1,4 +1,4 @@
-## Comandos git
+## Comandos git + github
 
 - Inicializar repositorio local:
 ```bash
